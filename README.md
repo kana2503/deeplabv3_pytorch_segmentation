@@ -73,6 +73,10 @@ cd ваш-репозиторий
 ```bash
 pip install -r requirements.txt
 ```
+### 3. Установка больших файлв
+Для загрузки больших файлов (весов моделей) и файл ipynb:
+- [best_model.pth] (https://drive.google.com/file/d/1XaV6jSL4pwKGu7cgHQCVpwH2wQ-0VLP5/view?usp=drive_link)
+- [baseline_code.ipynb] (https://drive.google.com/file/d/1Y8vgvKeElTNYbeFsaGGoD9p3fi-pmKse/view?usp=drive_link)
 
 ### 3. Запуск Jupyter Notebook
 Откройте файл `baseline_code.ipynb` в Jupyter Notebook или Jupyter Lab и выполните ячейки по порядку.
